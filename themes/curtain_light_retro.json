@@ -1,0 +1,43 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Curtain Light (Retro)",
+    "include": "./curtain_light_clear.json",
+    "colors": {},
+    "tokenColors": [
+        {
+            "scope": [
+                "keyword",
+                "meta.brace",
+                "punctuation",
+                "storage.modifier"
+            ],
+            "settings": {
+                "foreground": "#707770"
+            }
+        },
+        {
+            "scope": "punctuation.definition.string",
+            "settings": {
+                "foreground": "#000000",
+            }
+        },
+        {
+            "scope": "support.type.property-name",
+            "settings": {
+                "foreground": "#55a055",
+            }
+        },
+        {
+            "scope": "markup.heading",
+            "settings": {
+                "foreground": "#5e5e5e",
+            }
+        },
+        {
+            "scope": "meta.link",
+            "settings": {
+                "foreground": "#5e70b0"
+            }
+        }
+    ]
+}

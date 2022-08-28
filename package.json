@@ -1,0 +1,26 @@
+{
+  "name": "theme-curtain",
+  "displayName": "Curtain Theme",
+  "description": "Light theme based on quiet colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Curtain Theme (Clear)",
+        "uiTheme": "vs",
+        "path": "./themes/curtain_light_clear.json"
+      },
+      {
+        "label": "Curtain Theme (Retro)",
+        "uiTheme": "vs",
+        "path": "./themes/curtain_light_retro.json"
+      }
+    ]
+  }
+}
