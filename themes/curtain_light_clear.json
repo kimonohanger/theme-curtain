@@ -23,6 +23,7 @@
         "editor.lineHighlightBorder": "#cacabb70",
         "editor.selectionBackground": "#b5b5b0",
         "editor.selectionHighlightBackground": "#b5b5b050",
+        "editor.snippetTabstopHighlightBackground": "#00000008",
         "editorCursor.foreground": "#000000",
         "editorGroup.border": "#cccccc",
         "editorGroupHeader.tabsBackground": "#e0dfd7",
