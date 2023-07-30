@@ -9,7 +9,8 @@
                 "keyword",
                 "meta.brace",
                 "punctuation",
-                "storage.modifier"
+                "storage.modifier",
+                "storage.type"
             ],
             "settings": {
                 "foreground": "#707770"
